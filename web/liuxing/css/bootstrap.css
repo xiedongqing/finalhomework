@@ -1,0 +1,21 @@
+html {
+  font-family: sans-serif;
+}
+body {
+  margin: 0;
+}
+  border-bottom: 1px dotted;
+}
+  font-style: italic;
+}
+  bottom: -.25em;
+}
+.text-left {
+  text-align: left;
+}
+.text-right {
+  text-align: right;
+}
+.text-center {
+  text-align: center;
+}
